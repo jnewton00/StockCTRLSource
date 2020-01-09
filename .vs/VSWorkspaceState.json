@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StockCTRL.Web",
+    "\\StockCTRL.Web\\Views",
+    "\\StockCTRL.Web\\Views\\Account",
+    "\\StockCTRL.Web\\Views\\Home",
+    "\\StockCTRL.Web\\Views\\Shared"
+  ],
+  "SelectedNode": "\\StockCTRL.Web\\Views\\Account\\Login.cshtml",
+  "PreviewInSolutionExplorer": false
+}

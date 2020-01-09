@@ -1,0 +1,11 @@
+C:\Users\theb0\StockCTRL\StockCTRL\StockCTRL.Data\bin\Release\StockCTRL.Data.dll.config
+C:\Users\theb0\StockCTRL\StockCTRL\StockCTRL.Data\bin\Release\StockCTRL.Data.dll
+C:\Users\theb0\StockCTRL\StockCTRL\StockCTRL.Data\bin\Release\StockCTRL.Data.pdb
+C:\Users\theb0\StockCTRL\StockCTRL\StockCTRL.Data\bin\Release\EntityFramework.dll
+C:\Users\theb0\StockCTRL\StockCTRL\StockCTRL.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\theb0\StockCTRL\StockCTRL\StockCTRL.Data\bin\Release\EntityFramework.xml
+C:\Users\theb0\StockCTRL\StockCTRL\StockCTRL.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\theb0\StockCTRL\StockCTRL\StockCTRL.Data\obj\Release\StockCTRL.Data.csprojAssemblyReference.cache
+C:\Users\theb0\StockCTRL\StockCTRL\StockCTRL.Data\obj\Release\StockCTRL.Data.csproj.CopyComplete
+C:\Users\theb0\StockCTRL\StockCTRL\StockCTRL.Data\obj\Release\StockCTRL.Data.dll
+C:\Users\theb0\StockCTRL\StockCTRL\StockCTRL.Data\obj\Release\StockCTRL.Data.pdb

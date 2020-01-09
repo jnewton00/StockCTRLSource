@@ -1,0 +1,17 @@
+﻿@model IEnumerable<StockCTRL.Data.Models.StockItem>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>StockCTRL</h1>
+    <div>There are @Model.Count() items of Stock in the Database</div>
+</div>
+
+<ul>
+    @foreach (var stockitems in Model)
+    {
+    <li>@stockitems.ItemName</li>
+    }
+</ul>
